@@ -1,0 +1,11 @@
+Desktop
+Documents
+Downloads
+gitlearning
+Music
+Pictures
+Public
+Templates
+test1
+test2
+Videos
